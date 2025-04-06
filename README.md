@@ -1,3 +1,4 @@
+```bash
 # 04.-GitOps
 ## Repository link
 https://github.com/vabbajack/04.-GitOps
@@ -5,3 +6,4 @@ https://github.com/vabbajack/04.-GitOps
 python calculator/calculator.py
 ## Run command test script
 pytest calculator/test_calculator.py -v
+```
